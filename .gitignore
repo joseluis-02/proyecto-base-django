@@ -1,0 +1,2 @@
+# Ignporamos las migraciones a la base de datos
+application/applications/prueba/migrations/*
